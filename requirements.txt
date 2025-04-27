@@ -1,0 +1,10 @@
+streamlit
+langchain
+weaviate-client
+sentence-transformers
+transformers
+torch
+requests
+scikit-learn
+python-dotenv
+langchain-community
